@@ -1,0 +1,7 @@
+Name	Id	Maths	Gujrati	English	Science	Computer	Per
+------- ------- ------- ------- ------- ------- ------- -------
+Name	Id	Maths	Gujrati	English	Science	Comp	Per
+------- ------- ------- ------- ------- ------- ------- -------
+1	Het	11	22	33	44	55	66	2	Suraj	22	33	74	55	66	77	Name	Id	Maths	Gujrati	English	Science	Comp	Per
+------- ------- ------- ------- ------- ------- ------- -------
+1	Het	11	11	11	11	11	11	2	Suraj	22	22	22	22	22	22	3	SUKAL	33	33	33	33	33	33	4	Pal	44	44	44	44	44	44	5	Gret	55	55	55	55	55	55	
