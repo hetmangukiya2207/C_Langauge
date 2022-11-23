@@ -1,0 +1,3 @@
+eid	name	dept	bs	hra	dt	ta	gs
+
+1	Het	Hr	20000	10.00	3.00	2.00	20015.00
